@@ -6,7 +6,7 @@ API_URL  = "https://api.e-stat.go.jp/rest/3.0/app/json/getStatsData"
 
 params = {
     "appId": APP_ID,
-    "statsDataId":"0002210014",
+    "statsDataId":"0000020201", #住民基本台帳人口移動報告
     "cdArea":"12101,12102,12103,12104,12105,12106",
     "cdCat01": "A1101",
     "metaGetFlg":"Y",
